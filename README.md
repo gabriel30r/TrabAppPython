@@ -1,7 +1,9 @@
 # TrabAppPython
 
-Aplicação simples para cadastrar **matrícula**, **disciplina** e **nota** de estudantes, com backend em Python, frontend leve e persistência de dados em MySQL.
+## 📘 Sobre o Projeto
 
+Este projeto foi desenvolvido como parte da disciplina Big Data em Python, do curso de Ciência da Computação da Universidade Estácio de Sá.
+O objetivo pedagógico era implementar uma aplicação prática utilizando Python, MySQL, APIs RESTful e uma interface web simples, integrando backend, frontend e banco de dados.
 ---
 
 ## 🧪 Tecnologias Utilizadas
