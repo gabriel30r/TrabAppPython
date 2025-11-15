@@ -3,7 +3,7 @@
 ## 📘 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte da disciplina Big Data em Python, do curso de Ciência da Computação da Universidade Estácio de Sá.
-O objetivo pedagógico era implementar uma aplicação prática utilizando Python, MySQL, APIs RESTful e uma interface web simples, integrando backend, frontend e banco de dados.
+O objetivo era criar uma aplicação em Python para registrar matrícula, disciplina e nota de alunos, integrando o código com um banco de dados MySQL para persistência das informações.
 ---
 
 ## 🧪 Tecnologias Utilizadas
