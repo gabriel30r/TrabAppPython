@@ -8,12 +8,9 @@ O objetivo pedagógico era implementar uma aplicação prática utilizando Pytho
 
 ## 🧪 Tecnologias Utilizadas
 
-- **Python** — Linguagem principal para o backend da aplicação.  
-- **Flask** — Framework web para construir a API e as rotas do backend.  
-- **APIs RESTful** — O backend expõe endpoints REST para operações CRUD (Create, Read, Update, Delete) de alunos, disciplinas e notas.  
+- **Python** — Linguagem principal para o backend da aplicação.
 - **MySQL** — Banco de dados relacional para armazenar as informações de matrícula, disciplina e nota.  
-- **SQLAlchemy ou driver MySQL** — Para conexão entre a aplicação Python e o MySQL (dependendo de como você implementou).  
-- **HTML / CSS / (possivelmente JavaScript)** — Para a interface frontend (formulários para adicionar matrícula, disciplina e nota).
+
 
 ---
 
